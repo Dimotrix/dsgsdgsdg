@@ -1,4 +1,4 @@
-  script_key = "fcJpSrEjGfIXBjLUpuintbSNTXqShfhX"
+  script_key = "DJDWbFbxFwLZCAXrnbBbdkqpOMeJrQhY"
     getgenv().SelectedPlayer = "Twizzlevolt7029" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
